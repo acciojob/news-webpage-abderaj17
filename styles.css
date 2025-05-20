@@ -30,6 +30,7 @@ img{
 	flex-direction:column;
 	/* gap:10px; */
 	background-color:white;
+	text-align: start;
 }
 .pictorial-news-section h3{
 	padding:15px;
