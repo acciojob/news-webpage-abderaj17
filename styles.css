@@ -23,7 +23,7 @@ img{
 	border-radius:5px;
 	border:1px solid white;
 	height:200px;
-	/* background-color:white; */
+	background-color:white;
 }
 .pictorial-news-section{
 	display:flex;
